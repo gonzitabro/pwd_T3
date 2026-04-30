@@ -1,0 +1,6 @@
+El error que yo vi que fue a la hora de entrar a la pagina para editarla ya venia predeterminada la del profesor.
+
+Otra cosa que tambien me gustaria aclarar pero que no es error, es que me gustaria que a la hora de agregar informacion a los topicos que "comodin.php" 
+ya venga predeterminado, por que puede que alguien que no sepa del tema puede ser que no agregue nada en el input de enlace y asi no se le agregue nada a las secciones
+
+Y como sugerencia, lo que  pondria como predeterminado en la pagina es una explicacion o guia para aprender a usar los topicos, secciones, etc. Ya que si no sabes como se usan, perdes mucho tiempo aprendiendo eso y para que es cada input.
